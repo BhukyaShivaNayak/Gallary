@@ -1,0 +1,25 @@
+/* Write your code here. */
+
+.bg-container {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  height: 90vh;
+  width: 90vw;
+  align-self: center;
+}
+h1 {
+  font-family: 'roboto';
+  margin-left: 60px;
+}
+p {
+  font-family: 'roboto';
+  margin-left: 60px;
+}
+.thumbnail-section {
+  display: flex;
+}
